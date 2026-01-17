@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Natalie's Data Science Blog"
+  url: "https://github.com/Natalie1339/Lab2_blog/"
   navbar:
     right:
       - about.qmd
